@@ -1,6 +1,6 @@
-# 🚗 Driver Monitoring System (DMS) – Data Analysis & Dashboard
+# Driver Monitoring System (DMS) – Data Analysis & Dashboard
 
-## 📌 Overview
+## Overview
 This project focuses on analyzing real-world driver monitoring data to identify unsafe driving patterns and improve road safety.
 
 A Power BI dashboard was developed to visualize driver behavior, alert trends, and risk indicators such as fatigue, distraction, and overspeeding.
@@ -9,7 +9,7 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze driver behavior using alert-based data  
 - Identify patterns in fatigue, distraction, and unsafe driving  
 - Monitor speed trends and high-risk driving periods  
@@ -18,14 +18,14 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Power BI** → Data visualization & dashboard  
 - **Python (Pandas, NumPy)** → Data preprocessing & cleaning  
 - **Excel / CSV** → Raw dataset handling  
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Real-world driver monitoring dataset (~74K records)  
 - Data includes:
   - Driver ID  
@@ -37,7 +37,7 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### 🔹 Alert Analysis
 - Monthly and yearly alert trends  
@@ -65,7 +65,7 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Lane departure alerts contribute the majority of alerts (~79%)  
 - Night-time driving shows higher risk levels  
 - A small number of vehicles contribute disproportionately to total alerts  
@@ -74,7 +74,7 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 🧠 Custom Metrics Created
+## Custom Metrics Created
 - Fatigue Score  
 - Alert Capture Rate  
 - Speed Variance  
@@ -82,7 +82,7 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 🚀 Applications
+## Applications
 - Fleet performance monitoring  
 - Driver risk assessment  
 - Road safety analytics  
@@ -90,14 +90,14 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - Limited number of vehicles → may not generalize  
 - Primarily descriptive analysis (no predictive modeling)  
 - Static dashboard (no real-time streaming)  
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Add machine learning models for risk prediction  
 - Build real-time streaming pipeline  
 - Develop driver risk scoring system  
@@ -105,7 +105,7 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 <img width="1282" height="721" alt="1" src="https://github.com/user-attachments/assets/e3461c48-69a9-4a93-9e9e-f15166080493" />
 <img width="1278" height="722" alt="2" src="https://github.com/user-attachments/assets/a6c9ebd0-fed7-4bad-812d-6b8ec174ca07" />
 <img width="1278" height="721" alt="3" src="https://github.com/user-attachments/assets/41c63cbf-1a0e-4447-8a8d-0ca208d61284" />
