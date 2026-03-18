@@ -111,5 +111,5 @@ The goal is to transform raw telematics data into actionable insights for fleet 
 <img width="1278" height="721" alt="3" src="https://github.com/user-attachments/assets/41c63cbf-1a0e-4447-8a8d-0ca208d61284" />
 
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how data analytics and visualization can be used to extract meaningful insights from driver monitoring data and support safer transportation systems.
