@@ -1,4 +1,4 @@
-# Driver Monitoring System (DMS) – Data Analysis & Dashboard
+# Driver Monitoring System (DMS) : Data Analysis & Dashboard
 
 ## Overview
 This project focuses on analyzing real-world driver monitoring data to identify unsafe driving patterns and improve road safety.
